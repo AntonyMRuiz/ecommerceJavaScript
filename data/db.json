@@ -3,8 +3,27 @@
         {
             "id": 1,
             "name": "Antony",
+            "role" : "admin",
             "email": "aDmin@admin",
             "password": "1234"
         }
-    ]
+    ],
+    "productos": [
+          {
+            "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ78_6Lin0RwzIptT96XI-m433QSVLIS8E5rV6pDF015Fgp4s_ZDEskA-Rt0hHp6K5gTqU&usqp=CAU",
+            "nombre": "Manzana",
+            "precio": 19.99
+          },
+          {
+            "imagen": "https://www.herbazest.com/imgs/d/8/7/551784/pera.jpg",
+            "nombre": "Pera",
+            "precio": 39.99
+          },
+          {
+            "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4r5ip_XhcV9q8Wr0ih-ycEpUPdiZguLUKlA&s",
+            "nombre": "Sandia",
+            "precio": 59.99
+          }
+        ]
+      
 }
